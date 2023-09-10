@@ -1,0 +1,62 @@
+#fff    branco
+#f1f3f7 branco gelo 
+#f6f6f6 gelo
+#a89f9f cinza claro
+#233032 cinza escuro
+#2f86d6 azul
+rgba(47, 134, 214, 1)  azul
+
+especificações:
+        topo
+width: 100;
+padding: 35px 0;
+cotainer log e navs:
+    width: 1024px;
+
+        banner
+width: 100%;
+padding: 180px 0
+container:
+max-width: 1024px;  
+text
+width: 470px;
+img: 50%
+
+        primeiro e segunda anúncios
+width:100%;
+padding: 40px 0;
+container
+width: 600px;
+
+        informações
+width: 100%
+padding 100px 0
+ text
+ width 900px
+ container img
+ width 1024px
+ img 33%
+
+        Planos
+width 1024px   
+padding 100px 0
+
+        tabela de preços
+padding 100px 0
+
+        contato
+padding 100px 0
+log width 320px
+rodape
+padding 20px 0
+
+        tabela de preços rodape
+padding 100px 0
+logo
+    width 320px
+rodape 
+padding 20px 0
+
+
+
+
