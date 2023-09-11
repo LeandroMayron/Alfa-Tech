@@ -130,3 +130,35 @@ nav a{
 .botao-preto{
     background-color: #233032;
 }
+
+.contato{
+    width: 100%;
+    margin:40px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto-contato{
+    width: 900px;
+    margin: 40px auto;
+    text-align: center;
+    line-height: 50px;
+}
+
+.rodape{
+    width: 100%;
+    height: 60px;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f3f7;
+}
+
+.rodape h3{
+    font-weight: 600;
+}
+
+.span-azul{
+    color: #2f86d6;
+}
