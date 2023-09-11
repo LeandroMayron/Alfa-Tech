@@ -77,11 +77,17 @@ nav a{
     width: 50%;
 }
 
-.primeiro-anuncio{
+.anuncio{
     width: 100%;
     padding: 40px 0;
-    background-color: #233032;
+}
 
+.primeiro-anuncio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    background-color: #233032;
 }
 
 .conteudo-anuncio{
@@ -113,4 +119,14 @@ nav a{
     margin-right: 5px;
 }
 
+.segundo-anuncio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    background-color: #2f86d6;
+}
 
+.botao-preto{
+    background-color: #233032;
+}
