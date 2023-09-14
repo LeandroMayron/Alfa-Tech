@@ -216,9 +216,15 @@ nav a{
 }
 
 .tabela-head{
-    padding-top: 40px;
+    height: 250px;
+    padding-top: 0;
     margin: 0;
     background-color: #fff;
+}
+
+.tabela-head h3{
+    margin-bottom: 20px;
+    justify-content: center;
 }
 
 .text-claro{
@@ -231,6 +237,9 @@ nav a{
 }
 
 .img-tabela{
-    width: 46%;
-    
+    width: 100px; 
 }
+
+ .branco{
+    background-color: #fff;
+ }
