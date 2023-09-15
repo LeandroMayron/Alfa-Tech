@@ -37,6 +37,11 @@
     font-weight: bold;
 }
 
+.logo-botao{
+    text-decoration: none;
+    color: #fff;
+}
+
 nav {
     position: absolute;
     right: 10px;
