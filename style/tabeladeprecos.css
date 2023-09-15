@@ -52,12 +52,12 @@ nav a {
 
 .secao-tabela {
     width: 1080px;
-    height: 800px;
+    height: 1080px;
     margin: 50px auto;
 }
 
 .tabela{
-    width: 900px;
+    width: 1024px;
     height: 1024px;
 }
 
@@ -77,4 +77,21 @@ th p {
     height:60px;
     padding-left: 20px;
     background-color: #f1f3f7;
+    font-weight: bolder;
+}
+
+tbody p{
+    text-align: center;
+}
+
+tbody td{
+    width: 150px;
+}
+
+tbody div{
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: #2f86d6;
+    border-radius: 50%;
 }
